@@ -51,7 +51,8 @@ endmodule
 ```
 
 ## Truthtable
-![image](https://github.com/Raji1009/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/89059861/4ae068bf-8075-4963-80d4-bc356863d064)
+![image](https://github.com/DilipDofy/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147223497/5c4e7a65-ce92-4ab9-813b-fca0e5803526)
+
 
 ##  RTL realization
 ![image](https://github.com/Raji1009/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/89059861/a5259217-f5ae-4649-b591-a21d0618d756)
